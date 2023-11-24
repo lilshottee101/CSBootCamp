@@ -1,0 +1,3 @@
+After going through Player and Dealer data for times and dates of loses.
+There was one Player reguarly gambling when losses occured, Milly Schmidt she was playing during 13 losses.
+There was one Dealer who also was present for 13 losses at the same time as Milly Schmidt, dealer Billy Jones.

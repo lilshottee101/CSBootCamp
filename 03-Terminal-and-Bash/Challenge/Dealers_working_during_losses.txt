@@ -1,0 +1,41 @@
+Loss occurred on 0310 at 05:00:00 AM. Black Jack Dealer information: Katey Bean
+Loss occurred on 0310 at 08:00:00 AM. Black Jack Dealer information: Rahima Figueroa
+Loss occurred on 0310 at 02:00:00 PM. Black Jack Dealer information: Chyna Mercado
+Loss occurred on 0310 at 08:00:00 PM. Black Jack Dealer information: Saima Mcdermott
+Loss occurred on 0310 at 11:00:00 PM. Black Jack Dealer information: Cleveland Hanna
+Loss occurred on 0312 at 05:00:00 AM. Black Jack Dealer information: Katey Bean
+Loss occurred on 0312 at 08:00:00 AM. Black Jack Dealer information: Rahima Figueroa
+Loss occurred on 0312 at 02:00:00 PM. Black Jack Dealer information: Chyna Mercado
+Loss occurred on 0312 at 08:00:00 PM. Black Jack Dealer information: Saima Mcdermott
+Loss occurred on 0312 at 11:00:00 PM. Black Jack Dealer information: Cleveland Hanna
+Loss occurred on 0315 at 05:00:00 AM. Black Jack Dealer information: Katey Bean
+Loss occurred on 0315 at 08:00:00 AM. Black Jack Dealer information: Rahima Figueroa
+Loss occurred on 0315 at 02:00:00 PM. Black Jack Dealer information: Chyna Mercado
+
+Loss occurred on 0310 at 05:00:00 AM. Roulette Dealer information: Billy Jones
+Loss occurred on 0310 at 08:00:00 AM. Roulette Dealer information: Billy Jones
+Loss occurred on 0310 at 02:00:00 PM. Roulette Dealer information: Billy Jones
+Loss occurred on 0310 at 08:00:00 PM. Roulette Dealer information: Billy Jones
+Loss occurred on 0310 at 11:00:00 PM. Roulette Dealer information: Billy Jones
+Loss occurred on 0312 at 05:00:00 AM. Roulette Dealer information: Billy Jones
+Loss occurred on 0312 at 08:00:00 AM. Roulette Dealer information: Billy Jones
+Loss occurred on 0312 at 02:00:00 PM. Roulette Dealer information: Billy Jones
+Loss occurred on 0312 at 08:00:00 PM. Roulette Dealer information: Billy Jones
+Loss occurred on 0312 at 11:00:00 PM. Roulette Dealer information: Billy Jones
+Loss occurred on 0315 at 05:00:00 AM. Roulette Dealer information: Billy Jones
+Loss occurred on 0315 at 08:00:00 AM. Roulette Dealer information: Billy Jones
+Loss occurred on 0315 at 02:00:00 PM. Roulette Dealer information: Billy Jones
+
+Loss occurred on 0310 at 05:00:00 AM. Texas Hold Em Dealer information: Evalyn Howell
+Loss occurred on 0310 at 08:00:00 AM. Texas Hold Em Dealer information: Madina Britton
+Loss occurred on 0310 at 02:00:00 PM. Texas Hold Em Dealer information: Cleveland Hanna
+Loss occurred on 0310 at 08:00:00 PM. Texas Hold Em Dealer information: Katey Bean
+Loss occurred on 0310 at 11:00:00 PM. Texas Hold Em Dealer information: Rahima Figueroa
+Loss occurred on 0312 at 05:00:00 AM. Texas Hold Em Dealer information: Evalyn Howell
+Loss occurred on 0312 at 08:00:00 AM. Texas Hold Em Dealer information: Madina Britton
+Loss occurred on 0312 at 02:00:00 PM. Texas Hold Em Dealer information: Cleveland Hanna
+Loss occurred on 0312 at 08:00:00 PM. Texas Hold Em Dealer information: Katey Bean
+Loss occurred on 0312 at 11:00:00 PM. Texas Hold Em Dealer information: Rahima Figueroa
+Loss occurred on 0315 at 05:00:00 AM. Texas Hold Em Dealer information: Evalyn Howell
+Loss occurred on 0315 at 08:00:00 AM. Texas Hold Em Dealer information: Madina Britton
+Loss occurred on 0315 at 02:00:00 PM. Texas Hold Em Dealer information: Cleveland Hanna
